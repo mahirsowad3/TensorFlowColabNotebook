@@ -1,2 +1,2 @@
 # TensorFlowColabNotebook
-Test Repository using TednsorFlow with Colaboratory
+Test Repository using TensorFlow with Colaboratory
